@@ -1,3 +1,4 @@
+// Hola a todos!
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -298,3 +299,4 @@ void buscarEstudiantePorNombre(Estudiante *inicio, const char *nombreBuscado, co
         printf("No se encontro al estudiante '%s %s'.\n", nombreBuscado, apellidoBuscado);
     }
 }
+
