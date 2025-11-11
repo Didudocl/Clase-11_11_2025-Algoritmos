@@ -1,0 +1,16 @@
+1 Region_de_Tarapaca
+2 Region_de_Antofagasta
+3 Region_de_Atacama
+4 Region_de_Coquimbo
+5 Region_de_Valparaiso
+6 Region_de_OHiggins
+7 Region_del_Maule
+8 Region_del_Biobio
+9 Region_de_La_Araucania
+10 Region_de_Los_Lagos
+11 Region_de_Aysen
+12 Region_de_Magallanes
+13 Region_Metropolitana
+14 Region_de_Los_Rios
+15 Region_de_Arica_y_Parinacota
+16 Region_de_Nuble

@@ -1,0 +1,10 @@
+1 Ingenieria_de_ejecucion_en_Computacion_e_Informatica
+2 Ingenieria_Civil_Informatica
+3 Enfermeria
+4 Arquitectura
+5 Derecho
+6 Psicologia
+7 Ingenieria_Comercial
+8 Pedagogia_en_Matematica
+9 Medicina
+10 Diseno_Grafico
